@@ -44,12 +44,7 @@
 
 ## 橙皮书系列
 
-| 书名 | 链接 |
-|------|------|
-| Claude Code 从入门到精通 | [GitHub](https://github.com/alchaincyf/claude-code-orange-book) |
-| Harness Engineering | [GitHub](https://github.com/alchaincyf/harness-engineering-orange-book) |
-| OpenClaw：养一只你自己的 AI | [GitHub](https://github.com/alchaincyf/openclaw-orange-book) |
-| **Hermes Agent 从入门到精通** | 本仓库 |
+本书是橙皮书系列之一。系列其他书目包括：Claude Code 从入门到精通、Harness Engineering、OpenClaw 等。
 
 所有橙皮书免费下载：**[huasheng.ai/orange-books](https://www.huasheng.ai/orange-books)**
 
