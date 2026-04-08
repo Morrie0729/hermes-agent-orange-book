@@ -1,5 +1,9 @@
 **English** | [中文版 README](README_zh.md)
 
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
 # Hermes Agent: The Complete Guide
 
 > 橙皮书 (Orange Book) Series · by HuaShu (花叔)
